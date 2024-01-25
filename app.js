@@ -1,4 +1,4 @@
-let x=12;
-function myFunction(){
-    return x;
+let x = 12;
+function myFunction() {
+  return "amirhosein";
 }
