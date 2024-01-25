@@ -3,3 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+h1{
+    color: rebeccapurple;
+}
+p{
+    color: aqua;
+}
+h4{
+    color: brown;
+} h5{
+    font-size: 50px;
+}
